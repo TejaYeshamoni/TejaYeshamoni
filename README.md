@@ -21,6 +21,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejayeshamoni&show_icons=true&locale=en&layout=compact" alt="tejayeshamoni" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejayeshamoni&show_icons=true&locale=en" alt="tejayeshamoni" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejayeshamoni&" alt="tejayeshamoni" /></p>
+
