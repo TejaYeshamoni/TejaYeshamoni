@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/teja-yeshamoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/TejaYeshamoni/TejaYeshamoni/main/assets/linkedin.svg" alt="teja-yeshamoni" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/teja-yeshamoni" target="blank"><img align="center" src="[https://raw.githubusercontent.com/TejaYeshamoni/TejaYeshamoni/main/assets/linkedin.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F18930587-linkedin-logo-png-linkedin-icon-transparent-png&psig=AOvVaw3YFBezi6Y7QHG3xweupL1-&ust=1710596800292000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPioiOez9oQDFQAAAAAdAAAAABAE)" alt="teja-yeshamoni" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
