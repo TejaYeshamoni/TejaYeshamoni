@@ -5,6 +5,6 @@ I'm Teja Yeshamoni, a passionate software developer with a keen interest in buil
 - 👀 I'm enthusiastic about all things related to software development.
 - 🌱 Currently, I'm diving deep into the MERN (MongoDB, Express.js, React, Node.js) stack.
 - 💞️ I'm open to collaborating with fellow MERN Stack Developers on exciting projects.
-- 📫 You can connect with me on LinkedIn.
+- 📫 You can connect with me on LinkedIn : www.linkedin.com/in/teja-yeshamoni.
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss anything related to software development! 🚀
