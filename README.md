@@ -1,10 +1,21 @@
-# Hi there! 👋
+<h1 align="center">Hi 👋, I'm Teja Yeshamoni</h1>
+<h3 align="center">A passionate MERN Stack Developer from India</h3>
 
-I'm Teja Yeshamoni, a passionate software developer with a keen interest in building robust and scalable applications. Here's a little about me:
+- 👍 I’m currently working on **MERN Stack projects**
+- 🌱 I’m currently learning **MERN Stack Development | CCBPian at NxtWave | Python, SQL, React JS**
+- 🤝 I’m looking to collaborate on **MERN Stack projects**
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/teja-yeshamoni)
+- ⚡ Fun fact: **I think I am very enthusiastic about learning new technologies**
 
-- 👀 I'm enthusiastic about all things related to software development.
-- 🌱 Currently, I'm diving deep into the MERN (MongoDB, Express.js, React, Node.js) stack.
-- 💞️ I'm open to collaborating with fellow MERN Stack Developers on exciting projects.
-- 📫 You can connect with me on LinkedIn : www.linkedin.com/in/teja-yeshamoni.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/teja-yeshamoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/TejaYeshamoni/TejaYeshamoni/main/assets/linkedin.svg" alt="teja-yeshamoni" height="30" width="40" /></a>
+</p>
 
-Feel free to explore my repositories and reach out if you'd like to collaborate or discuss anything related to software development! 🚀
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/TejaYeshamoni/TejaYeshamoni/main/assets/mongodb.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/TejaYeshamoni/TejaYeshamoni/main/assets/express.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/TejaYeshamoni/TejaYeshamoni/main/assets/react.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/TejaYeshamoni/TejaYeshamoni/main/assets/nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
+</p>
