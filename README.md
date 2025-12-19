@@ -1,80 +1,84 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Teja%20Yeshamoni&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:00d4ff,100:090979&height=250&section=header&text=TEJA%20YESHAMONI&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Architect;Next.js+15+Pro;Gen-AI+Integration+Specialist;Building+Scalable+SaaS+Solutions" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=MERN+Stack+Architect;Next.js+15+Specialist;Gen+AI+%26+RAG+Engineer;Biotech+to+Tech+Pioneer" alt="Typing SVG" />
-</p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/teja-yeshamoni"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://teja-yeshamoni.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
-<a href="mailto:yteja01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://teja-yeshamoni.netlify.app"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/teja-yeshamoni"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-## ⚡ Quick Byte
-I am a **Full Stack Engineer** who thrives at the intersection of **Scalable Web Apps** and **Generative AI**. After a year-long intensive residency at NxtWave, I've spent my time mastering **Next.js 15**, **TypeScript**, and **Vector Databases**.
+## ⚡ The Developer Persona
+A **Performance-Driven Full Stack Developer** specializing in the **MERN Ecosystem** and **Next.js**. I architect high-concurrency systems, implement AI-driven features (RAG), and prioritize clean, type-safe codebases.
+
+- 🚀 **Currently Mastering:** Next.js 15 Server Actions & MongoDB Vector Search.
+- 🛠️ **Core Strength:** Turning complex business logic into seamless UI/UX.
+- 🤖 **Innovation:** Integrating OpenAI & Gemini for intelligent automation.
 
 ---
 
-## 🛠️ My Tech Universe
+## 🏗️ Technical Arsenal
 
-### 🌐 Frontend & Core
+### 💻 Frontend Mastery
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux,html,css" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,redux,tailwind,js,html,css,bootstrap" />
 </p>
 
 ### ⚙️ Backend & Intelligence
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,postgres,py,openai,githubactions" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,postgres,py,openai,postman" />
 </p>
 
-### 🧰 Tools & Environment
+### 🛠️ DevOps & Tools
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,linux,postman,vercel,netlify,figma,vscode" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma,vscode,vercel,netlify" />
 </p>
 
 ---
 
-## 🚀 Elite Projects
+## 💎 Featured Engineering Lab
 
-<table>
+<table border="0">
   <tr>
     <td width="50%">
-      <h3 align="center">🏟️ VenueSpot</h3>
-      <p align="center"><b>AI-Powered Event Booking</b></p>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=TejaYeshamoni&repo=VenueSpot&theme=vision-friendly-dark" width="100%" />
-      <ul>
-        <li>Next.js 15 & Server Actions</li>
-        <li>RAG-based AI Agent</li>
-        <li>MongoDB Vector Search</li>
-      </ul>
+      <h3>🏟️ VenueSpot (SaaS)</h3>
+      <p><i>Full-stack Event Management with AI Discovery.</i></p>
+      <p><b>Stack:</b> Next.js 15, TypeScript, MongoDB Vector Search.</p>
+      <p>✅ <b>Highlight:</b> Natural Language venue search using RAG.</p>
     </td>
     <td width="50%">
-      <h3 align="center">🎬 ReelSeats</h3>
-      <p align="center"><b>Real-time Movie Engine</b></p>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=TejaYeshamoni&repo=ReelSeats&theme=vision-friendly-dark" width="100%" />
-      <ul>
-        <li>Socket.io for Live Seats</li>
-        <li>Redis for high-speed caching</li>
-        <li>Concurrency Management</li>
-      </ul>
+      <h3>🎬 ReelSeats</h3>
+      <p><i>Real-time Movie Booking Architecture.</i></p>
+      <p><b>Stack:</b> Socket.io, Node.js, Redis, React.</p>
+      <p>✅ <b>Highlight:</b> Atomic seat selection with zero-latency updates.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📈 Engineering Metrics
+## 📊 Performance Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejayeshamoni&theme=tokyonight&hide_border=true&stroke=36BCF7" width="100%" />
+</p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tejayeshamoni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejayeshamoni&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tejayeshamoni&show_icons=true&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 📬 Drop a Line
+<p align="left">
+  <a href="mailto:yteja01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/teja-yeshamoni"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=30&section=footer" width="100%" />
+</div>
